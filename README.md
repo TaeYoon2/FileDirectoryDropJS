@@ -1,4 +1,4 @@
-# FileAndDirectoryDropDemo
+# FileDirectoryDropJS
 File And Directory Drop Demo for Web
 
 # 본론에 앞서...
